@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SE320-MethodRewriteInClass", "SE320-MethodRewriteInClass\SE320-MethodRewriteInClass.csproj", "{BD54E39E-E022-4427-AE29-DEC0B07FC62E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD54E39E-E022-4427-AE29-DEC0B07FC62E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD54E39E-E022-4427-AE29-DEC0B07FC62E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD54E39E-E022-4427-AE29-DEC0B07FC62E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD54E39E-E022-4427-AE29-DEC0B07FC62E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
